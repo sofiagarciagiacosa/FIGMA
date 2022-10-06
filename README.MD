@@ -16,6 +16,10 @@
 
 [CARRITO (1).pdf](https://github.com/sofiagarciagiacosa/FIGMA/files/9728158/CARRITO.1.pdf)
 
+[fonts.pdf](https://github.com/sofiagarciagiacosa/FIGMA/files/9728363/fonts.pdf)
+
+[componentes.pdf](https://github.com/sofiagarciagiacosa/FIGMA/files/9728369/componentes.pdf)
+
 ---
 ## Link Figma
 
